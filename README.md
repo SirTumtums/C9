@@ -10,8 +10,8 @@ This code was created to make a way to generate a README.md file from the termin
 
 
 
-###Git hub Repo: https://github.com/SirTumtums/C9
-###Video Link: https://youtu.be/XnPb2EbXNfc
+### Git hub Repo: https://github.com/SirTumtums/C9
+### Video Link: https://youtu.be/XnPb2EbXNfc
 
 
 
