@@ -7,10 +7,11 @@ This code was created to make a way to generate a README.md file from the termin
 
 ## Visuals
 ![Prompts](https://github.com/SirTumtums/C9/blob/main/Develop/assets/Imgs/c9prompts.png) *Prompts*
+![Demo](https://youtu.be/XnPb2EbXNfc) *Demo Video*
 
 
 Git hub Repo: https://github.com/SirTumtums/C9
-
+Video Link: https://youtu.be/XnPb2EbXNfc
 
 
 
